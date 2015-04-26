@@ -21,4 +21,4 @@ Features
 --------
 
 * Scraping unsplash site
-* TODO
+* TODO: Add js scraping
