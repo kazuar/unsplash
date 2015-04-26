@@ -4,3 +4,5 @@
 __author__ = 'Tzahi Vidas'
 __email__ = 'tzahi.vidas@gmail.com'
 __version__ = '0.1.0'
+
+import unsplash
