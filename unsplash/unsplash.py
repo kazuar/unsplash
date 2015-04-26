@@ -48,18 +48,3 @@ class UnsplashData(object):
 
     def get_photographer(photographer_name):
         return self._photographers.get(photographer_name, None)
-
-# class 
-
-# class WikipediaPage(object):
-#   '''
-#   Contains data from a Wikipedia page.
-#   Uses property methods to filter data from the raw HTML.
-#   '''
-
-#   def __init__(self, title, redirect=True, preload=False, original_title=''):
-#     self.title = title
-#     self.original_title = original_title or title
-
-#     self.load(redirect=redirect, preload=preload)
-
